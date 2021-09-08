@@ -24,7 +24,8 @@
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-C++-181717?style=flat-square&logo=c++)
 ![Ruby](https://img.shields.io/badge/-Ruby-181717?style=flat-square&logo=ruby)
-![Csharp](https://img.shields.io/badge/-C#-181717?style=flat-square&logo=c#)
+![C#](https://img.shields.io/badge/-csharp-181717?style=flat-square&logo=csharp)
+![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=Java)
 
 ## 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Olivers11&count_private=true&show_icons=true)
