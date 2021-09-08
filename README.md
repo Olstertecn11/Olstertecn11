@@ -26,8 +26,8 @@
 ![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=Java)
 
 ## 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Olivers11&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olivers11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Olstertecn11&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olstertecn11&layout=compact)](https://github.com/Olstertecn11/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Olivers11)
 
