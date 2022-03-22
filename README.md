@@ -1,10 +1,9 @@
 ### Hi there, I'm Oliver 👋
 
-<img src="https://www.gokiebox.com/comparte/wp-content/uploads/2017/11/webbbb.gif">
 <hr>
 
 <br>
-📌  Living in Guateamala, Guatemala <img src="https://www.flaticon.com/svg/static/icons/svg/630/630607.svg" width="13"/>
+📌  Living in Guateamala, Guatemala
 </p>
 
 
