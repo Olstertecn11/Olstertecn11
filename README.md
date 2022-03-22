@@ -1,7 +1,5 @@
 ### Hi there, I'm Oliver 👋
-
-<hr>
-
+Welcome, in this repository love the open source and the continuous learning.
 <br>
 📌  Living in Guateamala, Guatemala
 </p>
