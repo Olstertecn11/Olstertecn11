@@ -5,8 +5,6 @@ Welcome, in this repository love the open source and the continuous learning.
 </p>
 
 
-## FOLLOW ME
-
 [![Gmail Badge](https://img.shields.io/badge/-olstertecn597@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olstertecn597@gmail.com)](mailto:olstertecn597@gmail.com)
 ![Facebook Badge](https://img.shields.io/badge/-@oliver.davila.186-00acee?style=flat&logo=Facebook&logoColor=white)
 ## ⚡ Technologies
@@ -23,7 +21,6 @@ Welcome, in this repository love the open source and the continuous learning.
 ![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=Java)
 
 ## 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Olstertecn11&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olstertecn11&layout=compact)](https://github.com/Olstertecn11/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Olstertecn11)
