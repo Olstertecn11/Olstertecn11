@@ -22,7 +22,7 @@ Welcome, in this repository love the open source and the continuous learning.
 
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olstertecn11&layout=compact)](https://github.com/Olstertecn11/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Olstertecn11)
 
 <hr>
