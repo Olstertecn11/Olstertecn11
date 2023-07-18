@@ -7,6 +7,10 @@ Welcome, in this repository love the open source and the continuous learning.
 
 [![Gmail Badge](https://img.shields.io/badge/-olstertecn597@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olstertecn597@gmail.com)](mailto:olstertecn597@gmail.com)
 ![Facebook Badge](https://img.shields.io/badge/-@oliver.davila.186-00acee?style=flat&logo=Facebook&logoColor=white)
+
+
+## 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olstertecn11&layout=compact)](https://github.com/Olstertecn11/github-readme-stats)
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -19,11 +23,5 @@ Welcome, in this repository love the open source and the continuous learning.
 ![Ruby](https://img.shields.io/badge/-Ruby-181717?style=flat-square&logo=ruby)
 ![C#](https://img.shields.io/badge/-csharp-181717?style=flat-square&logo=csharp)
 ![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=Java)
-
-## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olstertecn11&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olstertecn11&layout=compact)](https://github.com/Olstertecn11/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Olstertecn11)
 
 <hr>
